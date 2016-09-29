@@ -84,6 +84,12 @@ By: Dave Astel<br>
 http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf
 
 ##Ruby:<br>
+_Basics_:<br>
+
+**Learn Ruby The Hard Way**
+By: Zed A. Shaw
+https://learnrubythehardway.org/book/
+
 _Enumeration_:<br>
 
 **Enumerator: Ruby’s Versatile Iterator**
