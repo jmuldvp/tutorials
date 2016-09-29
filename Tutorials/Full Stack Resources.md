@@ -61,6 +61,11 @@ https://www.udemy.com/understand-javascript/
 By: kudvenkat<br>
 https://www.youtube.com/watch?v=2rkEbcptR64
 
+**React on Rails - Part I and II**
+By: Piotr Jaworski
+https://www.nopio.com/blog/react-rails-part-1-tutorial/
+https://www.nopio.com/blog/react-on-rails-tutorial-part-2/
+
 **You Don't Know JS (book series)**
 By: Kyle Simpson<br>
 https://github.com/getify/You-Dont-Know-JS
